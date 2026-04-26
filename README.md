@@ -7,17 +7,26 @@
 <h3 align="center">⚡ Full-Stack Web Developer from Algeria 🇩🇿</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Front-End+%2B+Back-End;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Apps🚀&center=true&width=520&height=45&color=00C6FF&vCenter=true" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Apps🚀&center=true&width=500&height=45&color=00C6FF&vCenter=true" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Student passionate about **Web Development**
-- 💻 I build **complete web applications (Front-End & Back-End)**
-- 🌱 Currently learning **Advanced React, Node.js & Databases**
+- 🎓 Passionate about **Web Development**
+- 💻 I build **Full-Stack Applications**
+- 🌱 Learning **Advanced React & Backend Systems**
 - 📍 Based in **Algeria 🇩🇿**
-- 🚀 Goal: Become a **Professional Full-Stack Engineer**
+- 🚀 Goal: **Become a Professional Engineer**
+
+---
+
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/dimitri-devs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dimitri-devs&repo=YOUR-REPO&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -30,12 +39,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dimitri-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitri-dev&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dimitri-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dimitri-devs&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitri-dev&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dimitri-devs&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -45,7 +54,7 @@
   <a href="mailto:dimitri.coder@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://www.instagram.com/big____boss_________?igsh=MnpkcDB6eWE2M3hw">
+  <a href="https://www.instagram.com/big____boss_________">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
@@ -54,13 +63,13 @@
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dimitri-dev&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dimitri-devs&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
 </p>
 
 ---
 
 <p align="center">
-✨ <b>Full-Stack Developer in progress — Building the future with code</b> ✨
+🔥 <b>Full-Stack Developer — Building real-world projects</b>
 </p>
 
 <!-- FOOTER -->
